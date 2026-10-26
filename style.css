@@ -1,4 +1,5 @@
 body{
+    background-color: black;
     background-image: url("assets/darkbg.jpg");
     background-size: cover;
     background-attachment: fixed;
@@ -17,8 +18,13 @@ body{
     text-align: center;
 }
 
+h1, h2 {
+    font-family: "UnifrakturMaguntia", serif;
+    font-weight: normal;
+}
+
 h1 { font-size: 64px;
-     margin: 10px 0;
+    margin: 10px 0;
 }
 
 h2 { font-size: 40px; 
@@ -39,3 +45,15 @@ ul {
   list-style: none;
   padding: 0;
 }
+
+.fact{
+    border: 1px solid #ece8df;
+  padding: 15px;
+  margin: 15px 0;
+  cursor: pointer;
+}
+
+.fact:hover{
+    background-color: #1c1c1c;
+}
+.fact.open .hidden-text { display: block; }
