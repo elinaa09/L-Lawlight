@@ -1,0 +1,41 @@
+body{
+    background-image: url("assets/darkbg.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+
+
+    font-family: "Special Elite", monospace;
+    font-size: medium;
+    text-align: center;
+    color: #ece8df;
+    
+
+}
+
+.logo {
+    width: 150px;
+    text-align: center;
+}
+
+h1 { font-size: 64px;
+     margin: 10px 0;
+}
+
+h2 { font-size: 40px; 
+    margin: 5px;
+}
+
+a { color: #ece8df; }
+
+
+.Image {
+    width: 280px;
+    max-width: 80%;
+}
+
+
+
+ul {
+  list-style: none;
+  padding: 0;
+}
