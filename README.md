@@ -1,5 +1,6 @@
 # L-Lawlight
 
+<img class="hidden-text" src="assets/lpfp.png" alt="img" />
 
 
 A website about L Lawlight from deathnote,the world's greatest detective from Death Note. Built with plain HTML, CSS and JavaScript.
