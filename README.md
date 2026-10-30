@@ -1,9 +1,9 @@
-# L-Lawlight
+# L-Lawliet
 
 <img class="hidden-text" src="assets/lpfp.png" alt="img" />
 
 
-A website about L Lawlight from deathnote,the world's greatest detective from Death Note. Built with plain HTML, CSS and JavaScript.
+A website about L Lawliet from deathnote,the world's greatest detective from Death Note. Built with plain HTML, CSS and JavaScript.
 
 #Features
 -Case file with L's name, aliases, birthday, height and where he grew up
