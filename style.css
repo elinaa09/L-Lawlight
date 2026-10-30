@@ -9,8 +9,13 @@ body{
     font-size: medium;
     text-align: center;
     color: #ece8df;
-    
 
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
 }
 
 .logo {
@@ -33,14 +38,6 @@ h2 { font-size: 40px;
 
 a { color: #ece8df; }
 
-
-.Image {
-    width: 280px;
-    max-width: 80%;
-}
-
-
-
 ul {
   list-style: none;
   padding: 0;
@@ -51,6 +48,8 @@ ul {
   padding: 15px;
   margin: 15px 0;
   cursor: pointer;
+  text-align: center;
+
 }
 
 .fact .hidden-text {
