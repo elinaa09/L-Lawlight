@@ -1,6 +1,7 @@
 body{
     background-color: black;
-    background-image: url("assets/l bg.jpg");
+    background-image: url("assets/l\ bg.png");
     background-size: cover;
     background-attachment: fixed;
 }
+

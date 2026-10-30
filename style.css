@@ -47,13 +47,16 @@ ul {
 }
 
 .fact{
-    border: 1px solid #ece8df;
+  order: 2px solid #ece8df;
   padding: 15px;
   margin: 15px 0;
   cursor: pointer;
 }
 
-.fact:hover{
-    background-color: #1c1c1c;
+.fact .hidden-text {
+    display: none;
 }
-.fact.open .hidden-text { display: block; }
+
+.fact.open .hidden-text{
+display: block;
+}
